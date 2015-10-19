@@ -1,0 +1,12 @@
+﻿body {
+}
+#test{
+    height:250px;
+    width:250px;
+    background-color:black;
+    margin:auto;
+    border-radius:90%;
+}
+.custom-border{
+    background-color: #fafafa ;
+}
